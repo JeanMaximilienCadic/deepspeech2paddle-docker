@@ -39,7 +39,7 @@ docker pull jcadic/deepspeech:baidu
 - Clone this repository
 
 ```
-git clone https://github.com/PaddlePaddle/DeepSpeech.git
+git clone https://github.com/JeanMaximilienCadic/deepspeech2paddle-docker
 ```
 
 - Run the Docker image
